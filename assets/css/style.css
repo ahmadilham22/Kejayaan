@@ -6,3 +6,42 @@
   background-color: #ffffff;
   max-width: 100%;
 }
+
+.jumbotron {
+  height: 300px;
+   padding-top: 10%;
+   background-color: bisque;
+}
+.jumbotron h3 {
+  font-size: 32px;
+  font-style: inherit;
+}
+.jumbotron h1 {
+  font-size: 78px;
+  font-weight: bold;
+}
+
+.content{
+  margin-top: 150px;
+  padding-bottom: 50px;
+}
+.content h2{
+  font-weight: bold;
+}
+.border-text {
+  background-color: burlywood;
+ 
+  padding:10px 10px 10px 10px;
+  margin-bottom: 20px;
+}
+
+.card{
+  margin: 15px;
+  padding-top: 10px;
+  float: left;
+}
+
+.footer{
+  background-color: black;
+  height: 300px;
+}
